@@ -5,6 +5,6 @@ package com.shsxt;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("test02test");
+        System.out.println("test02");
     }
 }
